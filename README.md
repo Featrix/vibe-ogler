@@ -1,5 +1,7 @@
 # 🎵 Viber - File System Change Monitor
 
+**A Featrix Tool** | [www.featrix.ai](https://www.featrix.ai)
+
 A powerful CLI tool that monitors your source tree for file system events, tracks changes, and maintains shadow copies for before/after comparisons.
 
 ## Features

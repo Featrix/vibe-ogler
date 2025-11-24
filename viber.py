@@ -1,7 +1,14 @@
 #!/usr/bin/env python3
 """
-Viber - A file system change monitoring tool that tracks modifications, 
-computes diffs, and maintains a shadow copy for backup purposes.
+================================================================================
+  FEATRIX VIBER - File System Change Monitor
+  
+  Copyright (c) 2025 Featrix, Inc.
+  www.featrix.ai
+  
+  A file system change monitoring tool that tracks modifications,
+  computes diffs, and maintains shadow copies for backup purposes.
+================================================================================
 """
 
 import os
